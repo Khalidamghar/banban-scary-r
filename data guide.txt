@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHMDoN.jpg",
+      "title": "banban scary 1",
+        "text_Content": "Bans are prohibitions on certain activities or behaviors, typically imposed by governments or other authorities to maintain order or protect public safety. Bans can take many forms, from outright prohibitions to more nuanced restrictions on certain types of behavior. Bans can be controversial, as they can limit personal freedoms and may be viewed as heavy-handed or unfair by those affected. In this essay, we will explore the different types of bans, their benefits, and their drawbacks..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHMbVI.jpg",
+      "title": "banban scary 2",
+        "text_Content": "Product Bans: These are bans on the sale or use of certain products, such as illegal drugs, certain types of firearms, or specific types of food or beverage. The aim of product bans is to protect public safety by limiting access to potentially dangerous items..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHMZtp.jpg",
+      "title": "banban scary 3",
+        "text_Content": "Activity Bans: These are bans on certain types of activities, such as smoking in public places, or operating a motor vehicle without a license. The aim of activity bans is to protect public safety by limiting behaviors that can cause harm or endanger others..",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHMQNR.jpg",
+      "title": "banban scary 4",
+        "text_Content": "Speech Bans: These are bans on certain types of speech, such as hate speech or incitement to violence. The aim of speech bans is to protect individuals or groups from harm or harassment.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHMyKX.jpg",
+      "title": "banban scary 5",
+        "text_Content": "Public Safety: Bans can help to protect public safety by limiting access to potentially dangerous products or behaviors. For example, banning the sale of certain types of firearms can reduce the risk of gun violence..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHV9ln.jpg",
+      "title": "banban scary 6",
+        "text_Content": "Environmental Protection: Bans can help to protect the environment by limiting certain types of activities that can cause pollution or damage ecosystems. For example, banning the use of certain pesticides can help to protect wildlife and reduce the risk of environmental contamination..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGHMmPt.jpg",
+      "title": "banban scary 7",
+        "text_Content": "Health Protection: Bans can help to protect public health by limiting access to certain products or behaviors that can be harmful. For example, banning the sale of certain types of tobacco products can help to reduce the risk of smoking-related illnesses..",
+        "text_Content_1": "."
 
 
 
